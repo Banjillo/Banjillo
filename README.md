@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Banjillo
-- 👀 I’m interested in all kind of PHP web development project
-- 🌱 I’m currently learning JAVA...
+- 👀 I’m interested in all kind of PHP and Python web development project
 - 💞️ I’m looking to collaborate on any PHP development project or team...
 - 📫 How to reach me olaniyiadebayor@gmail.com
 
